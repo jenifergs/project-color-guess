@@ -19,3 +19,4 @@
 
 ---
 Vizualização do projeto 
+![print-adivinhe-a-cor](assets/print-adivinhe-a-cor.png)
