@@ -18,5 +18,8 @@
 - Nesta aplicação é possível jogar um jogo de adivinhação de cores e sua pontuação atualiza de acordo com os acertos.
 
 ---
-Vizualização do projeto 
+## Link para o projeto
+[aplicação](https://jenifergs.github.io/project-color-guess/)
+
+Print da aplicação 
 ![print-adivinhe-a-cor](assets/print-adivinhe-a-cor.png)
