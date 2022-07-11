@@ -19,7 +19,7 @@
 
 ---
 ## Link para o projeto
-[aplicação](https://jenifergs.github.io/project-color-guess/)
+[Clique aqui para ser redirecionado](https://jenifergs.github.io/project-color-guess/)
 
 Print da aplicação 
 ![print-adivinhe-a-cor](assets/print-adivinhe-a-cor.png)
