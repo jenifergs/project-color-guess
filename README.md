@@ -11,11 +11,11 @@
 
 
 
-## O que deverá ser desenvolvido
+## O que foi desenvolvido:
 
-- Será desenvolvida uma aplicação utilizando JavaScript, HTML5 e CSS3.
+- Foi desenvolvido uma aplicação utilizando JavaScript, HTML5 e CSS3.
 
-- Nesta aplicação deverá ser possível jogar um jogo de adivinhação de cores e sua pontuação deverá atualizar de acordo com os acertos.
+- Nesta aplicação é possível jogar um jogo de adivinhação de cores e sua pontuação atualiza de acordo com os acertos.
 
 ---
 Vizualização do projeto 
